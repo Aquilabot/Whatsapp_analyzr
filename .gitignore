@@ -1,0 +1,11 @@
+#target files
+*.txt
+*.log
+*.png
+
+#vscode
+.vscode
+.history
+
+#idea
+.idea
